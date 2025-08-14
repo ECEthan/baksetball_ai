@@ -1,1 +1,1 @@
-print("Basketball AI project initialized!")
+print("BRUH HELLOo Basketball AI project initialized!")
